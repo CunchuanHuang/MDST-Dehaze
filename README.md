@@ -2,8 +2,7 @@
 
 Full source code coming soon.
 
-## Environment
-
+## :computer: Environment
 ```
 python=3.12
 torch=2.5
@@ -14,7 +13,7 @@ opencv-python=4.11.0.86
 visdom=0.2.4 (Optional)
 ```
 
-## Quick Inference
+## :rocket: Quick Inference
 
 ### Step 1: Prepare dataset
 
