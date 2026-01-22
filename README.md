@@ -1,6 +1,6 @@
 # MDST-Dehaze [PR 2026]
 
-[![Paper link](https://img.shields.io/badge/Paper-PR2026-red)]([www.example.com](https://www.sciencedirect.com/science/article/pii/S0031320326000579)) [![Code link](https://img.shields.io/badge/Code-GitHub-blue)]([www.example.com](https://github.com/CunchuanHuang/MDST-Dehaze))
+[![Paper link](https://img.shields.io/badge/Paper-PR2026-red)](https://www.sciencedirect.com/science/article/pii/S0031320326000579) [![Code link](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/CunchuanHuang/MDST-Dehaze)
 
 This is the official PyTorch codes for the paper:
 
