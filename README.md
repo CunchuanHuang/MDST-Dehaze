@@ -1,6 +1,6 @@
 # MDST-Dehaze [PR 2026]
 
-[![Paper link](https://img.shields.io/badge/Paper-PR2026-red)](https://www.sciencedirect.com/science/article/pii/S0031320326000579) [![Code link](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/CunchuanHuang/MDST-Dehaze)
+[![Paper link](https://img.shields.io/badge/Paper-PR2026-red)](https://www.sciencedirect.com/science/article/pii/S0031320326000579) [![Code link](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/CunchuanHuang/MDST-Dehaze) [![Results link](https://img.shields.io/badge/Results-Releases-1bb41b)](https://github.com/CunchuanHuang/MDST-Dehaze/releases/tag/1.0)
 
 This is the official PyTorch codes for the paper:
 
@@ -12,8 +12,8 @@ This is the official PyTorch codes for the paper:
 
 ## 📣 News
 
-- [2026.01.22] 🔥🔥🔥 We release the full source code for training and testing MDST-Dehaze.
-- [2026.01.11] 🎉🎉🎉 Congratulations! Our paper accepted by *PR*.
+- [2026.01.22] 🔥🔥🔥 We release the full source code for training and testing [MDST-Dehaze](https://github.com/CunchuanHuang/MDST-Dehaze).
+- [2026.01.11] 🎉🎉🎉 Congratulations! Our paper accepted by *[PR](https://www.sciencedirect.com/science/article/pii/S0031320326000579)*.
 
 ## 💻 Environment
 
