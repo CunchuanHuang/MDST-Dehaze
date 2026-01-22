@@ -33,7 +33,7 @@ visdom=0.2.4 (Optional)
 
 #### Step 1: Prepare dataset
 
-Use the `example` dataset and download other dataset from [here](www.). The datasets need to be stored in the `./datasets`. If you are using your own dataset, you need to make sure that:
+Use the `example` dataset and download other dataset from [here](https://github.com/CunchuanHuang/MDST-Dehaze/releases/download/1.0/datasets.zip). The datasets need to be stored in the `./datasets`. If you are using your own dataset, you need to make sure that:
 
 ```
 datasets
@@ -58,7 +58,7 @@ target = DATASET_NAME2
 
 #### Step 3: Prepare pretrained models
 
-Download the pretrained model weights from [here](www.).
+Download the pretrained model weights from [here](https://github.com/CunchuanHuang/MDST-Dehaze/releases/download/1.0/checkpoints.zip).
 
 ```
 results
@@ -80,7 +80,7 @@ If you want to obtain the generated haze results of the current source domain (`
 
 #### Step 1: Prepare dataset
 
-Use the `example` dataset or download other dataset from [here](www.). The datasets need to be stored in the `./datasets`. If you are using your own dataset, you need to make sure that:
+Use the `example` dataset or download other dataset from [here](https://github.com/CunchuanHuang/MDST-Dehaze/releases/download/1.0/datasets.zip). The datasets need to be stored in the `./datasets`. If you are using your own dataset, you need to make sure that:
 
 ```
 datasets
@@ -102,7 +102,7 @@ saved_model_Tde_path = '../results/checkpoints/DATASET_NAME/Tde.pth'
 
 #### Step 3: Prepare pretrained models
 
-Download the pretrained model weights from [here](www.).
+Download the pretrained model weights from [here](https://github.com/CunchuanHuang/MDST-Dehaze/releases/download/1.0/checkpoints.zip).
 
 ```
 results
@@ -123,7 +123,7 @@ python inference_H2C.py
 
 ### Step 1: Prepare dataset
 
-Use the `example` dataset or download other dataset from [here](www.). The datasets need to be stored in the `./datasets`. If you are using your own dataset, you need to make sure that:
+Use the `example` dataset or download other dataset from [here](https://github.com/CunchuanHuang/MDST-Dehaze/releases/download/1.0/datasets.zip). The datasets need to be stored in the `./datasets`. If you are using your own dataset, you need to make sure that:
 
 ```
 datasets
